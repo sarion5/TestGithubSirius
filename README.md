@@ -1,16 +1,16 @@
 # TestGithub
 
-## Déscription du projet
-Avant tout chose, ce projet, et ce document n'ont rien **d'officiel**, il ne s'agit pas d'un reglement que j'érige en loi, mais plutot le fruit d'un réflexion.  
-Il peut, vous y êtes chaudement invité, etre soumis à débat, modifications, proposition et ajout.
-Ce projet est ouvert a tous le monde, on est tous débutant, à des niveaux différents!!
-
-Cela étant dit.  
-
 **Ce projet github a pour vocation de tester comment fonctionne github lorsque l'on travaille en groupe.**  
   
+<br>  
 
-  
+## Déscription du projet
+Avant tout chose, ce projet, et ce document n'ont rien **d'officiel**, il ne s'agit pas d'un reglement que j'érige en loi, mais plutot le fruit d'un réflexion.  
+Il peut, vous y êtes chaudement invité, etre soumis à débat, modifications, proposition et ajout.  
+**Ce projet est ouvert a tous le monde, on est tous débutant, à des niveaux différents!!**
+
+Cela étant dit.  
+ 
 Pour bien faire, il faudrait être au moins 3-4 personnes, motivées, pour couvrir tous les cas d'utilisations et d'interventions sur un projet lié à compte git(hub).   
 Au moins deux (au mieux 3) personnes devront rejoindre le projet en tant que collaborateur validé. C'est à dire, être validé par le créateur du projet (moi) via un compte github et l'adresse mail lié au compte.  
   
