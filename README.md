@@ -23,7 +23,7 @@ En gros, il s'agira de copier/coller, et/ou de modif, de ligne de texte comme re
   
 Vous pouvez utiliser les logiciels que vous voulez, mais je pense que pour plus de cohérence, soit le faire via visual studio code si vous savez comment lier votre compte github et visual studio code, soit via le logiciel GitHub Desktop, soit en ligne de commande pour les plus hardcore^^  
   
-Pour ceux qui le veulent, ou en on besoin, j'ai ajouter tout en bas de ce fichier les liens des tutoriaux que j'avais partager sur le groupe facebook
+Pour ceux qui le veulent, ou en on besoin, j'ai ajouté tout en bas de ce fichier les liens des tutoriaux que j'avais partager sur le groupe facebook
 
 
 ***
@@ -33,7 +33,7 @@ Pour ceux qui le veulent, ou en on besoin, j'ai ajouter tout en bas de ce fichie
 
 #### 1er étape 
 - Création et validation des collaborateurs.
-- Chacun des collaborateurs se verra assigné un niveau d'administration/interaction sur projet différent.
+- Chacun des collaborateurs se verra assigné un niveau différent d'administration/interaction sur le projet.
    - Un administrateur.
    - Un collaborateur avec des droits plus élevé que les suivants.
    - Un, voir deux, collaborateurs avec des droits normaux.  
@@ -42,7 +42,7 @@ Pour ceux qui le veulent, ou en on besoin, j'ai ajouter tout en bas de ce fichie
   On pourra éventuellement faire tourner les rôles, afin que l'on se familiarise tous avec le truc.  
 
 - Création d'un fichier unique accessible depuis la branche master, il s'agira d'un simple fichier texte du nom de MASTER.txt.  
-**Ce fichier README.MD ne devra pas être modifié.**  
+**Le fichier README.MD ne devra pas être modifié.**  
 
 <br>  
 
@@ -72,7 +72,7 @@ Indiquer aussi dans les commentaires de la commande les mêmes renseignements qu
 
 #### 3ieme étape
 - Créer une branche sur son pc clonée depuis la branche master et nommée à son prénom.
-- Ajouter un fichier a votre nom et y indiquer :
+- Ajouter un fichier txt à votre nom et y indiquer :
 ```
 Fichier "nom-du-fichier".txt
 ############################
@@ -91,7 +91,7 @@ En gros, il s'agira de
 - Faire des modifs chacun à son tour du fichier MASTER.txt en y ajoutant une ligne comme les exemples cité plus haut.
 - Modifier des lignes existantes du fichier MASTER.txt suvis par un commit et d'un PULL REQUEST
 - Faire une tentative de merge depuis sa propre branche (celle à votre nom) vers la branche MASTER.
-- faire tous les points précédents mais de façon "asynchrone", cad avec des modifications et pull request qui précéde les modfications faire par d'autres qui ont déjà étée validée..
+- faire tous les points précédents mais de façon "asynchrone", cad avec des modifications et pull request qui précédent les modifications faite par d'autres et qui ont déjà été validée..
 - Création de tickets de bug, feature, remonter des issues
 - (des idées??)
   
