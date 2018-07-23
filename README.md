@@ -3,6 +3,7 @@
 ## Déscription du projet
 Avant tout chose, ce projet, et ce document n'ont rien **d'officiel**, il ne s'agit pas d'un reglement que j'érige en loi, mais plutot le fruit d'un réflexion.  
 Il peut, vous y êtes chaudement invité, etre soumis à débat, modifications, proposition et ajout.
+Ce projet est ouvert a tous le monde, on est tous débutant, à des niveaux différents!!
 
 Cela étant dit.  
 
@@ -20,7 +21,10 @@ En gros, il s'agira de copier/coller, et/ou de modif, de ligne de texte comme re
 
 
   
-Vous pouvez utiliser les logiciels que vous voulez, mais je pense que pour plus de cohérence, soit le faire via visual studio code si vous savez comment lier votre compte github et visual studio code, soit via le logiciel GitHub Desktop, soit en ligne de commande pour les plus hardcore^^
+Vous pouvez utiliser les logiciels que vous voulez, mais je pense que pour plus de cohérence, soit le faire via visual studio code si vous savez comment lier votre compte github et visual studio code, soit via le logiciel GitHub Desktop, soit en ligne de commande pour les plus hardcore^^  
+  
+Pour ceux qui le veulent, ou en on besoin, j'ai ajouter tout en bas de ce fichier les liens des tutoriaux que j'avais partager sur le groupe facebook
+
 
 ***
 <br>
@@ -90,3 +94,14 @@ En gros, il s'agira de
 - faire tous les points précédents mais de façon "asynchrone", cad avec des modifications et pull request qui précéde les modfications faire par d'autres qui ont déjà étée validée..
 - Création de tickets de bug, feature, remonter des issues
 - (des idées??)
+  
+<br>  
+
+***  
+### Les vidéos youtube
+
+#### En francais
+<a href="https://www.youtube.com/watch?v=rP3T0Ee6pLU&list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP" target="_blank"><img src="http://img.youtube.com/vi/rP3T0Ee6pLU/0.jpg" alt="Grafikart GIT" width="240" height="180" border="10" /></a>
+  
+#### En anglais
+<a href="https://www.youtube.com/watch?v=M9uTajSRytE&index=2&list=PLyuRouwmQCjlxyO-45o53YCWjBCM-fA7L" target="_blank"><img src="http://img.youtube.com/vi/M9uTajSRytE/0.jpg" alt="Steve Griffith GIT" width="240" height="180" border="10" /></a>
